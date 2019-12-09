@@ -68,7 +68,7 @@ describe('Nuvven Booking Scenario', () => {
   helper.clickbutton(NuvvenRepo.PayConfirmbutton);
   helper.clickbutton(NuvvenRepo.paynowbutton);
   browser.sleep(2000);
-  expect(browser.getTitle()).toEqual('Booking-Confirmation');
+  expect(browser.getTitle()).toContain('Booking-Confirmation');
 
 
 
