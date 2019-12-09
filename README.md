@@ -1,8 +1,8 @@
 # Nuvven
 
 
-## Automation Branch
-## Run npm i
-## Go to e2e folder 
-## run  protractor protractor.conf to run the script
+## Pull Master Branch
+## go to Harness folder and Run 'npm i' or 'npm install' 
+## run 'ng e2e' or 'npm run e2e' 
+
 
