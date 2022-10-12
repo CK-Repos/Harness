@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~8.2.13",
     "@angular/platform-browser-dynamic": "~8.2.13",
     "@angular/router": "~8.2.13",
-    "jasmine-reporters": "^2.3.2",
+    "jasmine-reporters": "^2.5.0",
     "protractor-html-reporter-2": "^1.0.4",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
